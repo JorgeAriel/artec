@@ -1,0 +1,106 @@
+/*Creado por Jorge Martinez para Arctec ©2017*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    width: 100%;
+    background-color: rgba(72, 65, 60, 0.9);
+    height: 70px;
+    position: fixed;
+    z-index: 10;
+}
+
+.ancho {
+    width: 80%;
+    height: 70px;
+    margin: auto;
+}
+
+nav {
+    width: 70%;
+    height: 70px;
+    float: left;
+    text-align: right;
+    padding-top: 24px;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 30%;
+    height: 70px;
+    float: left;
+}
+
+.iconomenu {
+    height: 70px;
+    float: right;
+    color: white;
+}
+
+footer {
+    width: 100%;
+    background-color: rgba(72, 65, 60, 0.9);
+    height: 20px;
+    position: fixed;
+    z-index: 10;
+    bottom: 0;
+}
+
+.anchofooter {
+    width: 95%;
+    height: 30px;
+    margin: auto;
+}
+
+.creditos {
+    text-align: right;
+    color: white;
+    width: 25%;
+    float: right;
+}
+
+.menufooter{
+    width: 75%;
+    float: left;
+}
+
+footer ul li {
+    display: inline;
+    padding-left: 10px;
+    
+  
+}
+
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+    
+  
+}
+
+/*/nav ul li {
+	display: inline;
+	
+}*/
+
+
+/*nav ul li a {
+	color: #fff ;
+	text-decoration: none;
+	padding-left: 15px;
+
+}*/
+
+
+}
+@font-face {
+    font-family: "Raleway-Regular";
+    src: url("fonts/Raleway-Regular.ttf");
+}
+
+
+}
